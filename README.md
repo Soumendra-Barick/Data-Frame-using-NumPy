@@ -35,4 +35,4 @@ Make sure you have the following installed:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Soumendra-Barick/Data-Frame-using-NumPy.git
