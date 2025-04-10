@@ -36,3 +36,12 @@ Make sure you have the following installed:
 1. Clone the repo:
    ```bash
    git clone https://github.com/Soumendra-Barick/Data-Frame-using-NumPy.git
+2. Navigate into the project directory:
+   ```bash
+   cd your-repo-name
+3. Install required libraries:
+   ```bash
+   pip install pandas jupyter numpy matplotlib seaborn
+4. Start the Jupyter Notebook:
+   ```bash
+   jupyter notebook
