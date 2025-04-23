@@ -38,7 +38,7 @@ Make sure you have the following installed:
    git clone https://github.com/Soumendra-Barick/Data-Frame-using-NumPy.git
 2. Navigate into the project directory:
    ```bash
-   cd your-repo-name
+   cd Data-Frame-using-NumPy
 3. Install required libraries:
    ```bash
    pip install pandas jupyter numpy matplotlib seaborn
